@@ -1,7 +1,7 @@
-IPFS Persistence strategies for production deployments
-"How do I ensure my content remains reliably available over time?"
+# 1. IPFS Persistence strategies for production deployments
 
-A IPFS production persistence strategy typically combines:
+"How do I ensure my content remains reliably available over time?"
+An IPFS production persistence strategy typically combines:
 
 - multi-location pinning (e.g., your own node + 1–2 external services)
 - pin monitoring (periodic health checks)
